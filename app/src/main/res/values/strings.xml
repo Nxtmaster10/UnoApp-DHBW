@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnoTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="restart_game">Restart game</string>
+    <string name="welcome_text">Welcone to UNO the card game</string>
+    <string name="start_game">Start the game</string>
+    <string name="opponent_cards">Opponent card count: %1$d</string>
+    <string name="uno">You called UNO!</string>
+    <string name="uno_incorrect">You hve called UNO! at the wront time, draw two cards.</string>
+    <string name="uno_computer">I call UNO!</string>
+</resources>
